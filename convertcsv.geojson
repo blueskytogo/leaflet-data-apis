@@ -1,0 +1,1785 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8829376,33.8903559 ]
+    },
+    "properties": {
+    "popup":"小倉記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6912851,33.64216832 ]
+    },
+    "properties": {
+    "popup":"飯塚病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7655783,33.85746202 ]
+    },
+    "properties": {
+    "popup":"九州病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.713827,33.87784288 ]
+    },
+    "properties": {
+    "popup":"産業医科大学病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8788856,33.87929796 ]
+    },
+    "properties": {
+    "popup":"北九州市立医療センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9381839,33.8372355 ]
+    },
+    "properties": {
+    "popup":"九州労災病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8714931,33.8759592 ]
+    },
+    "properties": {
+    "popup":"健和会大手町病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8067874,33.86567837 ]
+    },
+    "properties": {
+    "popup":"製鉄記念八幡病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6884092,33.85219401 ]
+    },
+    "properties": {
+    "popup":"福岡新水巻病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9068446,33.8452832 ]
+    },
+    "properties": {
+    "popup":"北九州総合病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.012222,33.69350293 ]
+    },
+    "properties": {
+    "popup":"新行橋病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9710916,33.75272244 ]
+    },
+    "properties": {
+    "popup":"小波瀬病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9258973,33.89720761 ]
+    },
+    "properties": {
+    "popup":"新小文字病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8037977,33.86717448 ]
+    },
+    "properties": {
+    "popup":"済生会八幡総合病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8379921,33.89637958 ]
+    },
+    "properties": {
+    "popup":"戸畑共立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7994264,33.65958724 ]
+    },
+    "properties": {
+    "popup":"田川市立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7932908,33.8650674 ]
+    },
+    "properties": {
+    "popup":"北九州市立八幡病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7980683,33.62423503 ]
+    },
+    "properties": {
+    "popup":"社会保険田川病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8834353,33.84968912 ]
+    },
+    "properties": {
+    "popup":"小倉医療センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8119531,33.9075434 ]
+    },
+    "properties": {
+    "popup":"産業医科大学若松病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9369389,33.90031121 ]
+    },
+    "properties": {
+    "popup":"九州鉄道記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6397428,33.85231337 ]
+    },
+    "properties": {
+    "popup":"遠賀中間医師会おんが病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9651074,33.95113173 ]
+    },
+    "properties": {
+    "popup":"門司メディカルセンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6526202,33.62028429 ]
+    },
+    "properties": {
+    "popup":"飯塚市立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.866753,33.87871647 ]
+    },
+    "properties": {
+    "popup":"新小倉病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6598633,33.89534397 ]
+    },
+    "properties": {
+    "popup":"芦屋中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6751502,33.73347244 ]
+    },
+    "properties": {
+    "popup":"宮田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.73702,33.75867571 ]
+    },
+    "properties": {
+    "popup":"福岡ゆたか中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9615799,33.94250217 ]
+    },
+    "properties": {
+    "popup":"門司掖済会病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7255354,33.749311 ]
+    },
+    "properties": {
+    "popup":"社会保険直方病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7290934,33.74739938 ]
+    },
+    "properties": {
+    "popup":"西尾病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9082926,33.69302751 ]
+    },
+    "properties": {
+    "popup":"京都病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.833342,33.88108 ]
+    },
+    "properties": {
+    "popup":"戸畑総合病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8832051,33.87092805 ]
+    },
+    "properties": {
+    "popup":"三萩野病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8483117,33.85959388 ]
+    },
+    "properties": {
+    "popup":"西野病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.667349,33.835628 ]
+    },
+    "properties": {
+    "popup":"健愛記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7179409,33.82621401 ]
+    },
+    "properties": {
+    "popup":"中間市立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7134499,33.60055123 ]
+    },
+    "properties": {
+    "popup":"社会保険稲築病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7313192,33.8240572 ]
+    },
+    "properties": {
+    "popup":"新中間病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7620584,33.56191189 ]
+    },
+    "properties": {
+    "popup":"嘉麻日赤病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.687399,33.785825 ]
+    },
+    "properties": {
+    "popup":"くらて病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7480488,33.86033117 ]
+    },
+    "properties": {
+    "popup":"萩原中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7249653,33.84995117 ]
+    },
+    "properties": {
+    "popup":"東筑病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7286387,33.85203395 ]
+    },
+    "properties": {
+    "popup":"丘ノ規病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9725411,33.72971568 ]
+    },
+    "properties": {
+    "popup":"大原病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.855193,33.87233137 ]
+    },
+    "properties": {
+    "popup":"小倉第一病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9454932,33.81173886 ]
+    },
+    "properties": {
+    "popup":"医療法人錦会上曽根病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7747269,33.63601458 ]
+    },
+    "properties": {
+    "popup":"見立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6655599,33.60176649 ]
+    },
+    "properties": {
+    "popup":"済生会飯塚嘉穂病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7875221,33.69396127 ]
+    },
+    "properties": {
+    "popup":"田川慈恵病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6767155,33.64707248 ]
+    },
+    "properties": {
+    "popup":"明治記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8347482,33.65672485 ]
+    },
+    "properties": {
+    "popup":"一本松すずかけ病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.832502,33.89384504 ]
+    },
+    "properties": {
+    "popup":"天神クリニック（戸畑）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8905132,33.83943902 ]
+    },
+    "properties": {
+    "popup":"岩本内科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9413379,33.91607478 ]
+    },
+    "properties": {
+    "popup":"北九州市立門司病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7514594,33.81437934 ]
+    },
+    "properties": {
+    "popup":"八幡西病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9076248,33.84574544 ]
+    },
+    "properties": {
+    "popup":"北九州湯川病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.743537,33.789383 ]
+    },
+    "properties": {
+    "popup":"今村クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8275096,33.89569665 ]
+    },
+    "properties": {
+    "popup":"戸畑けんわ病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8730533,33.83713912 ]
+    },
+    "properties": {
+    "popup":"東和病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7555349,33.55765279 ]
+    },
+    "properties": {
+    "popup":"松岡病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7015567,33.84499081 ]
+    },
+    "properties": {
+    "popup":"水北第一病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8151383,33.58007093 ]
+    },
+    "properties": {
+    "popup":"川崎町立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6900857,33.90128364 ]
+    },
+    "properties": {
+    "popup":"青葉台病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6859115,33.6622168 ]
+    },
+    "properties": {
+    "popup":"末永病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7422103,33.86757053 ]
+    },
+    "properties": {
+    "popup":"みさご内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6550574,33.65783375 ]
+    },
+    "properties": {
+    "popup":"社会保険二瀬病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.710735,33.636592 ]
+    },
+    "properties": {
+    "popup":"梶原内科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7525,33.848862 ]
+    },
+    "properties": {
+    "popup":"新王子病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7363096,33.7490888 ]
+    },
+    "properties": {
+    "popup":"高橋内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8189754,33.64342239 ]
+    },
+    "properties": {
+    "popup":"村上外科病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6527274,33.64699442 ]
+    },
+    "properties": {
+    "popup":"総合せき損センタ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9442741,33.84602105 ]
+    },
+    "properties": {
+    "popup":"慈恵曽根病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7825347,33.65841254 ]
+    },
+    "properties": {
+    "popup":"糸田町立緑ケ丘病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8803003,33.87343869 ]
+    },
+    "properties": {
+    "popup":"北九州中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8632867,33.86972114 ]
+    },
+    "properties": {
+    "popup":"新栄会病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6757181,33.647793 ]
+    },
+    "properties": {
+    "popup":"泌尿器科ＣＵクリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9725705,33.92912326 ]
+    },
+    "properties": {
+    "popup":"春日病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9294955,33.8401627 ]
+    },
+    "properties": {
+    "popup":"小倉南メディカルケア病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6965671,33.6254665 ]
+    },
+    "properties": {
+    "popup":"飯塚記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7204585,33.68540315 ]
+    },
+    "properties": {
+    "popup":"頴田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7269412,33.84656576 ]
+    },
+    "properties": {
+    "popup":"正和中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9637967,33.72483073 ]
+    },
+    "properties": {
+    "popup":"行橋中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6541493,33.73039063 ]
+    },
+    "properties": {
+    "popup":"安倍病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.752677,33.86265637 ]
+    },
+    "properties": {
+    "popup":"青山中央外科病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7331977,33.80487413 ]
+    },
+    "properties": {
+    "popup":"佐々木病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7644868,33.86570964 ]
+    },
+    "properties": {
+    "popup":"浜田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7856444,33.57980232 ]
+    },
+    "properties": {
+    "popup":"医療法人社団敬信会大法山病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8535142,33.8717301 ]
+    },
+    "properties": {
+    "popup":"九州歯科大学病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7609668,33.86497504 ]
+    },
+    "properties": {
+    "popup":"黒崎整形外科病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.971379,33.752638 ]
+    },
+    "properties": {
+    "popup":"御所病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9104503,33.82757813 ]
+    },
+    "properties": {
+    "popup":"小倉セントラル病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8932585,33.85483832 ]
+    },
+    "properties": {
+    "popup":"たかぼうクリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7464714,33.81959201 ]
+    },
+    "properties": {
+    "popup":"大平メディカルケア病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7956534,33.82809459 ]
+    },
+    "properties": {
+    "popup":"八幡大蔵病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8156881,33.59795328 ]
+    },
+    "properties": {
+    "popup":"松本病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8802815,33.87844727 ]
+    },
+    "properties": {
+    "popup":"かわい泌尿器科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6825543,33.63838707 ]
+    },
+    "properties": {
+    "popup":"児嶋病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7118301,33.67104526 ]
+    },
+    "properties": {
+    "popup":"鯰田診療所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7014648,33.88045681 ]
+    },
+    "properties": {
+    "popup":"後藤外科胃腸科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7593364,33.85610037 ]
+    },
+    "properties": {
+    "popup":"正和なみき病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7456904,33.54494066 ]
+    },
+    "properties": {
+    "popup":"鎌田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8555339,33.87568034 ]
+    },
+    "properties": {
+    "popup":"小倉到津病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7412641,33.83083695 ]
+    },
+    "properties": {
+    "popup":"新生会病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7354264,33.8010319 ]
+    },
+    "properties": {
+    "popup":"香月中央病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6681514,33.64942947 ]
+    },
+    "properties": {
+    "popup":"共立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.810255,33.90224609 ]
+    },
+    "properties": {
+    "popup":"芳野病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9357313,33.90557726 ]
+    },
+    "properties": {
+    "popup":"晴山会クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7010091,33.58043253 ]
+    },
+    "properties": {
+    "popup":"石田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8210523,33.62338495 ]
+    },
+    "properties": {
+    "popup":"百武医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.84922,33.642325 ]
+    },
+    "properties": {
+    "popup":"富士見ケ丘内科循環器科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7661742,33.72762897 ]
+    },
+    "properties": {
+    "popup":"西田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.703551,33.84400689 ]
+    },
+    "properties": {
+    "popup":"水巻共立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6669001,33.82649726 ]
+    },
+    "properties": {
+    "popup":"浅木病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8831022,33.86409722 ]
+    },
+    "properties": {
+    "popup":"前田病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7214529,33.87934646 ]
+    },
+    "properties": {
+    "popup":"医生ケ丘クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.0095508,33.68703016 ]
+    },
+    "properties": {
+    "popup":"新田原聖母病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9693837,33.72703234 ]
+    },
+    "properties": {
+    "popup":"大宮整形外科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8008713,33.89555122 ]
+    },
+    "properties": {
+    "popup":"古前まつお医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6798579,33.65193359 ]
+    },
+    "properties": {
+    "popup":"医療法人裕和会おおやぶクリニッ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.87196,33.870883 ]
+    },
+    "properties": {
+    "popup":"小倉きふね病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7081045,33.82900226 ]
+    },
+    "properties": {
+    "popup":"中村整形外科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9821156,33.77829599 ]
+    },
+    "properties": {
+    "popup":"健和会京町病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7852544,33.6456007 ]
+    },
+    "properties": {
+    "popup":"川宮医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9014616,33.88735894 ]
+    },
+    "properties": {
+    "popup":"北九州小倉病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9674705,33.7293365 ]
+    },
+    "properties": {
+    "popup":"行橋クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6833301,33.64889865 ]
+    },
+    "properties": {
+    "popup":"飯塚腎クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8649097,33.83114677 ]
+    },
+    "properties": {
+    "popup":"徳力団地診療所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7854612,33.62990126 ]
+    },
+    "properties": {
+    "popup":"中富内科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9283887,33.8266135 ]
+    },
+    "properties": {
+    "popup":"あさひ松本病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7274458,33.60563146 ]
+    },
+    "properties": {
+    "popup":"西野病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7277626,33.78160048 ]
+    },
+    "properties": {
+    "popup":"八幡慈恵病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9327405,33.89849982 ]
+    },
+    "properties": {
+    "popup":"産婦人科・麻酔科いわさクリニッ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.940782,33.837631 ]
+    },
+    "properties": {
+    "popup":"新北九州腎臓クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.623224,33.842676 ]
+    },
+    "properties": {
+    "popup":"岡垣腎クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8386246,33.86626833 ]
+    },
+    "properties": {
+    "popup":"有吉病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6956359,33.85169596 ]
+    },
+    "properties": {
+    "popup":"水巻クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7239901,33.61020702 ]
+    },
+    "properties": {
+    "popup":"有松病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7083274,33.628651 ]
+    },
+    "properties": {
+    "popup":"西田内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9262793,33.88987088 ]
+    },
+    "properties": {
+    "popup":"医療法人　石本医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7248351,33.8678776 ]
+    },
+    "properties": {
+    "popup":"エンゼル病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.810829,33.60540934 ]
+    },
+    "properties": {
+    "popup":"長主病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8372157,33.86570747 ]
+    },
+    "properties": {
+    "popup":"医療法人博友会　本田クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7047814,33.70741189 ]
+    },
+    "properties": {
+    "popup":"小竹町立病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7025179,33.81756394 ]
+    },
+    "properties": {
+    "popup":"葉医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9096224,33.85039714 ]
+    },
+    "properties": {
+    "popup":"北九州安部山公園病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8115365,33.87039605 ]
+    },
+    "properties": {
+    "popup":"みやび眼科・内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7342947,33.72012336 ]
+    },
+    "properties": {
+    "popup":"高山病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7994642,33.61521807 ]
+    },
+    "properties": {
+    "popup":"古川病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.805982,33.86431966 ]
+    },
+    "properties": {
+    "popup":"中野内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.66137,33.6290446 ]
+    },
+    "properties": {
+    "popup":"牛島診療所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9307987,33.88527399 ]
+    },
+    "properties": {
+    "popup":"緑ケ丘病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.88787,33.84182726 ]
+    },
+    "properties": {
+    "popup":"嘉武医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.924825,33.84551747 ]
+    },
+    "properties": {
+    "popup":"松尾病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8043985,33.6122103 ]
+    },
+    "properties": {
+    "popup":"田中整形外科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.9903234,33.7167947 ]
+    },
+    "properties": {
+    "popup":"行橋記念病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.6675378,33.83515411 ]
+    },
+    "properties": {
+    "popup":"遠賀いそべ病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.786901,33.86292209 ]
+    },
+    "properties": {
+    "popup":"原内科・循環器科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8160232,33.68020616 ]
+    },
+    "properties": {
+    "popup":"柏芳会田川新生病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8961373,33.85246 ]
+    },
+    "properties": {
+    "popup":"医療法人恵友会霧ヶ丘つだ病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8641979,33.78141822 ]
+    },
+    "properties": {
+    "popup":"東谷医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7846923,33.8633836 ]
+    },
+    "properties": {
+    "popup":"桃園公園クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8576975,33.57017036 ]
+    },
+    "properties": {
+    "popup":"川口循環器内科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8468728,33.88785156 ]
+    },
+    "properties": {
+    "popup":"小倉中井病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7964884,33.86660123 ]
+    },
+    "properties": {
+    "popup":"北九州八幡東病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7678635,33.71148546 ]
+    },
+    "properties": {
+    "popup":"上野病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.710638,33.86606879 ]
+    },
+    "properties": {
+    "popup":"折尾クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7134794,33.86245423 ]
+    },
+    "properties": {
+    "popup":"白土医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.714735,33.896493 ]
+    },
+    "properties": {
+    "popup":"田村内科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.1534158,33.61279188 ]
+    },
+    "properties": {
+    "popup":"重岡胃腸科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.0640105,33.6518033 ]
+    },
+    "properties": {
+    "popup":"宮部病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.1739134,33.60227821 ]
+    },
+    "properties": {
+    "popup":"東病院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.044158,33.67057943 ]
+    },
+    "properties": {
+    "popup":"宮崎リハビリテーション医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.1491428,33.61553385 ]
+    },
+    "properties": {
+    "popup":"ともおレディ?スクリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.1318598,33.61971897 ]
+    },
+    "properties": {
+    "popup":"花岡内科循環器科医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.1494651,33.61384006 ]
+    },
+    "properties": {
+    "popup":"みぞぐち泌尿器科クリニック"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.034917,33.6667915 ]
+    },
+    "properties": {
+    "popup":"二見医院"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.010781,33.65124685 ]
+    },
+    "properties": {
+    "popup":"片山医院"
+    }
+  }
+]
+}
